@@ -1,0 +1,11 @@
+﻿  ImageEditor.cpp
+D:\oop\ImageEditor\ImageEditor\ImageEditor\ImageEditor.cpp(99,40): warning C4244:  '=': conversion from 'long' to 'unsigned char', possible loss of data
+D:\oop\ImageEditor\ImageEditor\ImageEditor\ImageEditor.cpp(104,41): warning C4244:  '=': conversion from 'long' to 'unsigned char', possible loss of data
+D:\oop\ImageEditor\ImageEditor\ImageEditor\ImageEditor.cpp(120,79): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+D:\oop\ImageEditor\ImageEditor\ImageEditor\ImageEditor.cpp(121,79): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+D:\oop\ImageEditor\ImageEditor\ImageEditor\ImageEditor.cpp(122,79): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+D:\oop\ImageEditor\ImageEditor\ImageEditor\ImageEditor.cpp(127,42): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+D:\oop\ImageEditor\ImageEditor\ImageEditor\ImageEditor.cpp(128,42): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+D:\oop\ImageEditor\ImageEditor\ImageEditor\ImageEditor.cpp(129,42): warning C4244:  '+=': conversion from 'double' to 'int', possible loss of data
+D:\oop\ImageEditor\ImageEditor\ImageEditor\ImageEditor.cpp(238,10): warning C4553:  '==': result of expression not used; did you intend '='?
+  ImageEditor.vcxproj -> D:\oop\ImageEditor\ImageEditor\Debug\ImageEditor.lib
